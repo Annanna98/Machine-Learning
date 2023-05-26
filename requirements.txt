@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+warnings
+sklearn.model_selection
+sklearn.linear_model
+sklearn.metrics
+joblib
